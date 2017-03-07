@@ -1,0 +1,11 @@
+
+
+
+参考：
+http://x125858805.iteye.com/blog/2161734
+http://chenlinbo.iteye.com/blog/972636
+
+包：e1common
+是EhCache的一个用法
+
+
